@@ -1,0 +1,16 @@
+{
+  "id": "fuse-everything",
+  "name": "fuse EVERYTHING?!",
+  "display_name": "fuse EVERYTHING?!",
+  "author": ["vxpeownsbedwars/HelloIlovegimkit4"],
+  "description": "A mod that litterly allows you to fuse everything.",
+  "prefix": "fe",
+  "main_file": "fuse.lua",
+  "priority": -10,
+  "badge_colour": "ff5f1f",
+  "badge_text_colour": "",
+  "version": "1.0.0",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0614a)",
+    "FusionJokers (>=1.1.5~BETA20251229)"
+]}
